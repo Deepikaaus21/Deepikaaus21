@@ -1,4 +1,4 @@
-### Hi Developers 👋
+### Hi developers! 👋
 
 I'm
 a intern at eduraka
