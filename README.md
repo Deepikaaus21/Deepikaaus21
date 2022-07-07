@@ -1,9 +1,9 @@
 ### Hi developers! 👋
 
 I'm
-a full stack develpoer
+a full stack Developer
 
-web develpoment has always been a interst to me I have a wide range of interest and skills that are (NodeJs, Python), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,cassendra,Mysql), CI/CD(Docker, kubernetes)
+Web develpoment has always been a interest to me I have a wide range of interest and skills that are (NodeJs, Python), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,cassendra,Mysql), CI/CD(Docker, kubernetes)
 
 
 ![Visitor Count](https://profile-counter.glitch.me/Deepikaaus21/count.svg)
@@ -25,6 +25,3 @@ Languages and Tools:
 
 
 - 🔭 I’m currently working on making my own profile webpage!
-- 🌱 I’m currently learning web develpomet
-
-
